@@ -1,0 +1,13 @@
+name = "Cobblemon Battle Extras"
+filename = "cobblemon-battle-extras-neoforge-1.7.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b5190d72cee083aee4d65cfc0e8228c5441e3fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7564577
+project-id = 1396525

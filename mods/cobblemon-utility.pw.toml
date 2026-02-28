@@ -1,0 +1,13 @@
+name = "Cobblemon Utility+ (IVs, EVs, & More)"
+filename = "Cobblemon-Utility+-neoforge-1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "519da26b2bbc363a55f54b30c9f0c9587f3fa017"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7329181
+project-id = 1205589

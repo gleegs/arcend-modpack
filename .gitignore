@@ -1,0 +1,16 @@
+# Ignorer les exécutables packwiz eux-mêmes
+packwiz.exe
+packwiz
+
+# IGNORER TOUS LES FICHIERS JAR
+# Packwiz utilise les fichiers .toml pour télécharger les JARs au besoin.
+*.jar
+mods/*.jar
+
+# Ignorer les exports et fichiers temporaires
+*.zip
+index.toml.bak
+
+# Fichiers système
+.DS_Store
+Thumbs.db

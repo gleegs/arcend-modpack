@@ -1,0 +1,13 @@
+name = "Arcend Modpack"
+author = "Ewixam & SSShamble"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f5cd0250a94907705dad116019d53c8ca517b8f9c85fa7aa75531b5864e9c51"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

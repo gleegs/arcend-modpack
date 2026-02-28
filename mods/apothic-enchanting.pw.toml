@@ -1,0 +1,13 @@
+name = "Apothic Enchanting"
+filename = "ApothicEnchanting-1.21.1-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "423b651da2c898b79c465d5d73a2b305ea796bef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7444883
+project-id = 1063926
