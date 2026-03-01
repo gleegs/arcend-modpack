@@ -1,6 +1,6 @@
 name = "Apotheosis"
 filename = "Apotheosis-1.21.1-8.4.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

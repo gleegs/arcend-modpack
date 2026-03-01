@@ -1,6 +1,6 @@
 name = "SmartBrainLib (Forge/Fabric/Quilt)"
 filename = "SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

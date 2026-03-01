@@ -1,6 +1,6 @@
 name = "The Bumblezone (NeoForge/Forge)"
 filename = "the_bumblezone-7.11.8+1.21.1-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

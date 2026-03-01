@@ -1,6 +1,6 @@
 name = "AE2 Network Analyser"
 filename = "AE2NetworkAnalyzer-1.21-2.1.4-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

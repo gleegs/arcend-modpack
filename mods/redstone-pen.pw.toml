@@ -1,6 +1,6 @@
 name = "Redstone Pen"
 filename = "redstonepen-1.21-neoforge-1.11.42.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

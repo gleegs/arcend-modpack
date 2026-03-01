@@ -1,6 +1,6 @@
 name = "Balm"
 filename = "balm-neoforge-1.21.1-21.0.56.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

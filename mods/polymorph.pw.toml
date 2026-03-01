@@ -1,6 +1,6 @@
 name = "Polymorph (Fabric/Forge/Quilt)"
 filename = "polymorph-neoforge-1.1.0+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Ars Controle"
 filename = "ars_controle-1.21.1-1.6.15.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

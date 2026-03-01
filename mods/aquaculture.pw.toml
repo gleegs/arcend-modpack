@@ -1,6 +1,6 @@
 name = "Aquaculture 2"
 filename = "Aquaculture-1.21.1-2.7.18.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

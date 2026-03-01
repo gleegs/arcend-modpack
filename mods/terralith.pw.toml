@@ -1,6 +1,6 @@
 name = "Terralith"
 filename = "Terralith_1.21.x_v2.5.8.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

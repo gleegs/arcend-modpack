@@ -1,6 +1,6 @@
 name = "PolyLib"
 filename = "polylib-2100.1.0-build.183-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

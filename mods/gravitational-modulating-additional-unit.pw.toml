@@ -1,6 +1,6 @@
 name = "Gravitational Modulating Additional Unit"
 filename = "GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

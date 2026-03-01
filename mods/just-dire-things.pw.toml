@@ -1,6 +1,6 @@
 name = "Just Dire Things"
 filename = "justdirethings-1.5.7.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

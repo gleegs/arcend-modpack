@@ -1,6 +1,6 @@
 name = "Cobblemon: Extra Structures"
 filename = "cobblemonextrastructures-1.21.1-1.2.0-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

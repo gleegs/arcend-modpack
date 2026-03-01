@@ -1,6 +1,6 @@
 name = "Chisel Reborn [Forge/Fabric/NeoForge]"
 filename = "chisel-neoforge-2.0.0+mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

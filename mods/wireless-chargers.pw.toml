@@ -1,6 +1,6 @@
 name = "Wireless Chargers"
 filename = "wirelesschargers-1.0.9a-neoforge-mc1.21.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

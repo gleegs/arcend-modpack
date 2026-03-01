@@ -1,6 +1,6 @@
 name = "ATO - All the Ores"
 filename = "alltheores-3.1.8_neoforge_1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

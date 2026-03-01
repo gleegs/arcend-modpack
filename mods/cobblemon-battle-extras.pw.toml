@@ -1,6 +1,6 @@
 name = "Cobblemon Battle Extras"
 filename = "cobblemon-battle-extras-neoforge-1.7.26.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "CodeChicken Lib 1.8.+"
 filename = "CodeChickenLib-1.21.1-4.6.1.526.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

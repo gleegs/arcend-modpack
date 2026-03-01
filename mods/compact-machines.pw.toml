@@ -1,6 +1,6 @@
 name = "Compact Machines"
 filename = "compactmachines-neoforge-7.0.80.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

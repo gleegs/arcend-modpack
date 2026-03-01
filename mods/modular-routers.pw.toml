@@ -1,6 +1,6 @@
 name = "Modular Routers"
 filename = "modular-routers-13.2.4+mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

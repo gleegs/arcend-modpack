@@ -1,6 +1,6 @@
 name = "Railcraft Reborn"
 filename = "railcraft-reborn-1.21.1-1.2.10.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

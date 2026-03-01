@@ -1,6 +1,6 @@
 name = "Forbidden and Arcanus"
 filename = "forbidden_arcanus-2.6.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

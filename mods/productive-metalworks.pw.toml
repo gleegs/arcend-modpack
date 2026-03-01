@@ -1,6 +1,6 @@
 name = "Productive Metalworks"
 filename = "productivemetalworks-1.21.1-1.14.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

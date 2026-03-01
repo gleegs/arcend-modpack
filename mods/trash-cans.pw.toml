@@ -1,6 +1,6 @@
 name = "Trash Cans"
 filename = "trashcans-1.0.18c-neoforge-mc1.21.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

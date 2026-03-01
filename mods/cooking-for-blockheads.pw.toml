@@ -1,6 +1,6 @@
 name = "Cooking for Blockheads"
 filename = "cookingforblockheads-neoforge-1.21.1-21.1.17.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

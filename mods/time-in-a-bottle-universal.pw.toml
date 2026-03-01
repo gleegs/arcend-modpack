@@ -1,6 +1,6 @@
 name = "Time in a bottle [FORGE\\NEOFORGE\\FABRIC]"
 filename = "tiab-neoforge-6.5.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

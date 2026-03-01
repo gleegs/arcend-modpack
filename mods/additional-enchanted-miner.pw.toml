@@ -1,6 +1,6 @@
 name = "Additional Enchanted Miner"
 filename = "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.144.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

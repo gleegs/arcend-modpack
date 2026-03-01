@@ -1,6 +1,6 @@
 name = "Sophisticated Storage in Motion"
 filename = "sophisticatedstorageinmotion-1.21.1-0.10.26.181.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

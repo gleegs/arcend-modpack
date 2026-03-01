@@ -1,6 +1,6 @@
 name = "All The Tweaks"
 filename = "allthetweaks-1.21.1-2.8.3.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

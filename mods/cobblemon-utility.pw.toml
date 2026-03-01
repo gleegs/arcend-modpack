@@ -1,6 +1,6 @@
 name = "Cobblemon Utility+ (IVs, EVs, & More)"
 filename = "Cobblemon-Utility+-neoforge-1.7.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

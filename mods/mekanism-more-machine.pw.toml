@@ -1,6 +1,6 @@
 name = "Mekanism:More Machine"
 filename = "mekmm-1.21.1-1.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

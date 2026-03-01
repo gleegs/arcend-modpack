@@ -1,6 +1,6 @@
 name = "FerriteCore ((Neo)Forge)"
 filename = "ferritecore-7.0.3-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

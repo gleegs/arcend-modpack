@@ -1,6 +1,6 @@
 name = "AdvancedAE"
 filename = "AdvancedAE-1.6.9-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

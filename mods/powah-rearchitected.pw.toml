@@ -1,6 +1,6 @@
 name = "Powah! (Rearchitected)"
 filename = "Powah-6.2.8.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "ExtendedAE"
 filename = "ExtendedAE-1.21-2.2.28-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

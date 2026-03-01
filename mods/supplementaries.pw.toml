@@ -1,6 +1,6 @@
 name = "Supplementaries"
 filename = "supplementaries-1.21-3.5.17-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

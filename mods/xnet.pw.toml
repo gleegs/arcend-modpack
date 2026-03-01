@@ -1,6 +1,6 @@
 name = "XNet"
 filename = "xnet-1.21-7.0.6.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

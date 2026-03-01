@@ -1,6 +1,6 @@
 name = "Reliquary Reincarnations"
 filename = "reliquary-1.21.1-2.0.65.1341.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

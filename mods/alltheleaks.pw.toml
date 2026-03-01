@@ -1,6 +1,6 @@
 name = "AllTheLeaks (Memory Leak Fix)"
 filename = "alltheleaks-1.1.6+1.21.1-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "All The Arcanist Gear"
 filename = "allthearcanistgear-1.21.1-21.3.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

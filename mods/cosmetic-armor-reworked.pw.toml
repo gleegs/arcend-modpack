@@ -1,6 +1,6 @@
 name = "Cosmetic Armor Reworked"
 filename = "cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

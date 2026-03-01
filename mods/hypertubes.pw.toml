@@ -1,6 +1,6 @@
 name = "Create: Hypertubes"
 filename = "create_hypertube-0.3.0-NEOFORGE.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

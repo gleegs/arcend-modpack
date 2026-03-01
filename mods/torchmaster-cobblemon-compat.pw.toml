@@ -1,6 +1,6 @@
 name = "Torchmaster Cobblemon Compat"
 filename = "torchmastercobblemoncompat-1.6-neoforge-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

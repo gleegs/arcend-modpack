@@ -1,6 +1,6 @@
 name = "Flux Networks"
 filename = "FluxNetworks-1.21.1-8.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

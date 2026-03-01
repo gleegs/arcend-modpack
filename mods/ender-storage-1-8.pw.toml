@@ -1,6 +1,6 @@
 name = "Ender Storage 1.8.+"
 filename = "EnderStorage-1.21.1-2.13.0.191.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

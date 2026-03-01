@@ -1,6 +1,6 @@
 name = "RFTools Power"
 filename = "rftoolspower-1.21-7.0.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

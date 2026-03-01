@@ -1,6 +1,6 @@
 name = "The Undergarden"
 filename = "The_Undergarden-1.21.1-0.9.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

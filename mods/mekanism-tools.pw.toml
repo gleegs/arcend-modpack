@@ -1,6 +1,6 @@
 name = "Mekanism Tools"
 filename = "MekanismTools-1.21.1-10.7.17.83.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

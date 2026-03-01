@@ -1,6 +1,6 @@
 name = "KubeJS"
 filename = "kubejs-neoforge-2101.7.2-build.348.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

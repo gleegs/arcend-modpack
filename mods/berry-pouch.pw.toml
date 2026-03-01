@@ -1,6 +1,6 @@
 name = "Berry Pouch [Cobblemon]"
 filename = "berrypouch-neoforge-1.21.1-0.5.3-beta.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

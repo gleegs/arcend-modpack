@@ -1,6 +1,6 @@
 name = "Titanium"
 filename = "titanium-1.21-4.0.40.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

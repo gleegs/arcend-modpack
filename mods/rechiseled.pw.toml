@@ -1,6 +1,6 @@
 name = "Rechiseled"
 filename = "rechiseled-1.2.1-neoforge-mc1.21.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

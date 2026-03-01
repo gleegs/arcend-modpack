@@ -1,6 +1,6 @@
 name = "Shrink."
 filename = "shrink-2.0.1.47-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

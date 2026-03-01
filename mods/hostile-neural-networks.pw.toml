@@ -1,6 +1,6 @@
 name = "Hostile Neural Networks"
 filename = "HostileNeuralNetworks-1.21.1-6.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

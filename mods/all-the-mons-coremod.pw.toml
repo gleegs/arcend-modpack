@@ -1,6 +1,6 @@
 name = "All The Mons - Coremod (this is not the modpack you are looking for)"
 filename = "allthemons-0.0.32.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

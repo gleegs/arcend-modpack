@@ -1,6 +1,6 @@
 name = "Pocket Storage"
 filename = "pocketstorage-1.2.5+1.21.1-b3.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

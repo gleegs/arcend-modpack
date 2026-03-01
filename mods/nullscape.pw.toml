@@ -1,6 +1,6 @@
 name = "Nullscape"
 filename = "Nullscape_1.21.x_v1.2.14.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

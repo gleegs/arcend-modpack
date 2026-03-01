@@ -1,6 +1,6 @@
 name = "Enderman Overhaul"
 filename = "endermanoverhaul-neoforge-1.21.1-2.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

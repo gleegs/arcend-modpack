@@ -1,6 +1,6 @@
 name = "Amendments"
 filename = "amendments-1.21-2.0.15-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

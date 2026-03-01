@@ -1,6 +1,6 @@
 name = "Modonomicon"
 filename = "modonomicon-1.21.1-neoforge-1.117.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

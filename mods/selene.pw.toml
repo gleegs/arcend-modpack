@@ -1,6 +1,6 @@
 name = "Moonlight Lib"
 filename = "moonlight-1.21-2.29.16-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

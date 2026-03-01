@@ -1,6 +1,6 @@
 name = "Lootr (Forge & NeoForge)"
 filename = "lootr-neoforge-1.21.1-1.11.36.114.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

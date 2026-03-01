@@ -1,6 +1,6 @@
 name = "FTB Library (Forge)"
 filename = "ftb-library-neoforge-2101.1.30.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "AE2: Crafting Tree"
 filename = "ae2ct-1.21.1-1.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

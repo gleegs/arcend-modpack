@@ -1,6 +1,6 @@
 name = "Kotlin for Forge"
 filename = "kotlinforforge-5.11.0-all.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

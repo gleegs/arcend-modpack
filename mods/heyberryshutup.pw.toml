@@ -1,6 +1,6 @@
 name = "Hey Berry! SHUT UP"
 filename = "heyberryshutup-1.21.0-2.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

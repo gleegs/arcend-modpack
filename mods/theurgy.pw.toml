@@ -1,6 +1,6 @@
 name = "Theurgy"
 filename = "theurgy-1.21.1-neoforge-1.68.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Resourceful Lib"
 filename = "resourcefullib-neoforge-1.21-3.0.12.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

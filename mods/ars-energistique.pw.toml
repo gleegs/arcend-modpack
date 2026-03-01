@@ -1,6 +1,6 @@
 name = "Ars Énergistique"
 filename = "arseng-2.1.1-beta.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

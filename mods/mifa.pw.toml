@@ -1,6 +1,6 @@
 name = "More Industrial Foregoing Addons (MIFA)"
 filename = "mifa-neoforge-1.21.x-2.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

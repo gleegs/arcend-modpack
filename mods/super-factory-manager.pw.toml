@@ -1,6 +1,6 @@
 name = "Super Factory Manager ( SFM )"
 filename = "Super Factory Manager (SFM)-MC1.21.1-4.28.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

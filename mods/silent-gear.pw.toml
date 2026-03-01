@@ -1,6 +1,6 @@
 name = "Silent Gear"
 filename = "silent-gear-1.21.1-neoforge-4.0.30.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Integrated Terminals"
 filename = "integratedterminals-1.21.1-neoforge-1.6.24.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

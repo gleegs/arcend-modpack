@@ -1,6 +1,6 @@
 name = "Potions Master"
 filename = "potionsmaster-21.1.113-0.7.1-packdev.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

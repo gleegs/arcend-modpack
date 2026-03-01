@@ -1,6 +1,6 @@
 name = "Accessories"
 filename = "accessories-neoforge-1.1.0-beta.52+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

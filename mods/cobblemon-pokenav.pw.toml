@@ -1,6 +1,6 @@
 name = "Cobblemon Pokenav"
 filename = "cobblenav-neoforge-2.2.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Not Enough Glyphs"
 filename = "not_enough_glyphs-1.21.1-4.2.6.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
