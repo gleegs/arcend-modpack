@@ -9,6 +9,7 @@ mods/*.jar
 
 # Ignorer les exports et fichiers temporaires
 *.zip
+*.mrpack
 index.toml.bak
 
 # Fichiers système

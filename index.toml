@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "3c1e453222ff9edd09ad6dbe770a6f95c341cff442e4b874f5075eb258a06f41"
-
-[[files]]
 file = "bsl-shaders.pw.toml"
 hash = "49c4f8541dfc148a992d36e2ebbda896ded176164558a2979dd2e04de11a46e7"
 metafile = true
